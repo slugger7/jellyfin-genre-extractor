@@ -1,0 +1,17 @@
+{
+  "name": "jellyfin-genre-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^4.1.1"
+  },
+  "devDependencies": {
+    "jest": "^25.3.0"
+  }
+}
